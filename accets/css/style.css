@@ -178,7 +178,7 @@ header {
 .ul-child-list {
     margin-top: 10px;
     position: absolute;
-    left: calc(20em - 5px);
+    left: calc(20em - 12px);
     background: #033801;
     width: 220px;
     box-shadow: 0 3px 3px rgba(0, 0, 0, .2);
